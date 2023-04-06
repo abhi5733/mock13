@@ -64,7 +64,7 @@ console.log(req.body)
 
 
     }catch(err){
-        res.send({"err":"something went wrong here"})
+        res.send({"err":"something went wrong"})
     }
 
    })
